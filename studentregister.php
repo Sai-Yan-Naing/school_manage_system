@@ -128,7 +128,7 @@ echo "<script>window.location.href ='studentregister.php'</script>";
                    <input type="submit" class="btn btn-primary form-control" name="submit">
 			 </div>
 			 <div>
-			 <a href="home.php" class="text-primary">Go To Home Page</a>
+			 <a href="index.php" class="text-primary">Go To Home Page</a>
 			 </div>
 			
 			 

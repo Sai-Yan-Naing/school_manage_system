@@ -40,7 +40,7 @@ header("location: profile.php");
   <nav class="navbar navbar-expand-sm bg-primary justify-content-center">
   <ul class="navbar-nav">
     <li class="nav-item bg-success">
-      <a class="nav-link text-dark" href="home.php">Home Page</a>
+      <a class="nav-link text-dark" href="index.php">Home Page</a>
     </li>
     <li class="nav-item bg-danger ml-3">
       <a class="nav-link text-dark" href="about.html">About Us</a>

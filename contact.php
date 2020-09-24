@@ -28,7 +28,7 @@ echo "<script>window.location.href ='contact.php'</script>";
 				<!--start-top-nav-->
 				<div class="top-nav">
 					<ul>
-						<li><a href="home.php">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 					
 						<li class="active"><a href="contact.php">Contact</a></li>
 					</ul>					
@@ -91,7 +91,7 @@ echo "<script>window.location.href ='contact.php'</script>";
 		   	 <div class="wrap">
 		   	<div class="footer-left">
 		   			<ul>
-						<li><a href="home.php">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						
 						<li><a href="contact.php">contact</a></li>
 					</ul>
